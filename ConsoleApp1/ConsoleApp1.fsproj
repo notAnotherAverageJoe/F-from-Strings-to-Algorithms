@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="core\calc.fs" />
+    <Compile Include="core\coref.fs" />
     <None Include="README.md" />
     <Compile Include="strings\inputs.fs" />
     <Compile Include="strings\File1.fs" />
