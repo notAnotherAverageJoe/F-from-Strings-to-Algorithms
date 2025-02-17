@@ -6,8 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="README.md" />
     <Compile Include="strings\File1.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
